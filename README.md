@@ -1,2 +1,2 @@
 # Structured-Programming
-this my mock exer of Structured Programming
+this is mock exer of Structured Programming
